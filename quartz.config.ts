@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Kidscollab β",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -24,32 +24,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "dmSans",
+        body: "lexend",
+        code: "jetbrains-mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#edf5ff", // Soft, cool blue for page background
+          lightgray: "#cddff7", // Light bluish-gray for borders
+          gray: "#97b3d8", // Subtle blue-gray for graph links and heavier borders
+          darkgray: "#5e779f", // Muted blue with a hint of purple for body text
+          dark: "#3c4f6e", // Deep blue for header text and icons
+          secondary: "#5e84f2", // Vibrant blue with a touch of purple for link colors and current graph node
+          tertiary: "#8898f7", // Cool bluish-purple for hover states and visited graph nodes
+          highlight: "rgba(94, 132, 242, 0.15)", // Soft blue for internal link background and highlights
+          textHighlight: "#d3e3f7", // Very light blue for markdown highlighted text background
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#121a2b", // Deep blue-black for page background
+          lightgray: "#202e49", // Muted dark blue for borders
+          gray: "#314a70", // Cool blue-gray for graph links and heavier borders
+          darkgray: "#5e7699", // Subtle blue for body text
+          dark: "#94aedb", // Softer light blue for header text and icons
+          secondary: "#5e84f2", // Vibrant blue with subtle purple undertones for link colors and current graph node
+          tertiary: "#8898f7", // Cool bluish-purple for hover states and visited graph nodes
+          highlight: "rgba(94, 132, 242, 0.15)", // Light blue for internal link background and highlights
+          textHighlight: "#3a4c70", // Deep blue for markdown highlighted text background
         },
       },
     },
