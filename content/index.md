@@ -6,7 +6,9 @@ author:
 ---
  
 This is KidsCollab beta
+
 Please view the stable version at 
-sites.google.com/view/kidscollab
+
+[sites.google.com/view/kidscollab]
 
 v.0.0.1
