@@ -30,14 +30,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#ebe3d3", // Clean and very light blue-gray for the page background
+          light: "#f4efe4", // Clean and very light blue-gray for the page background
           lightgray: "#ddd5c2", // Softer light blue for borders and subtle accents
           gray: "#b3ab9a", // Muted gray-blue for links and heavier borders
           darkgray: "#545351", // Brighter, readable gray for body text
           dark: "#1C1F26", // Deep charcoal for headings and important text
           secondary: "#dd7f2a", // Rich blue for links and current section highlights
           tertiary: "#FFA726", // Warm orange for hover states and call-to-action highlights
-          highlight: "#e7af3d38", // Light blue overlay for highlighting
+          highlight: "rgba(255, 167, 38, 0.15)", // Light blue overlay for highlighting
           textHighlight: "#FFB74D", // Vibrant orange for highlighted text backgrounds
         },
         darkMode: {
