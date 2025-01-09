@@ -44,7 +44,7 @@ const config: QuartzConfig = {
           light: "#121a2b", // Deep blue-black for page background
           lightgray: "#202e49", // Muted dark blue for borders
           gray: "#314a70", // Cool blue-gray for graph links and heavier borders
-          darkgray: "#5e7699", // Subtle blue for body text
+          darkgray: "#ffffff", // Subtle blue for body text
           dark: "#94aedb", // Softer light blue for header text and icons
           secondary: "#5e84f2", // Vibrant blue with subtle purple undertones for link colors and current graph node
           tertiary: "#8898f7", // Cool bluish-purple for hover states and visited graph nodes
