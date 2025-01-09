@@ -36,9 +36,9 @@ const config: QuartzConfig = {
           darkgray: "#545351", // Brighter, readable gray for body text
           dark: "#1C1F26", // Deep charcoal for headings and important text
           secondary: "#dd7f2a", // Rich blue for links and current section highlights
-          tertiary: "#FFA726", // Warm orange for hover states and call-to-action highlights
+          tertiary: "#1887bf", // Warm orange for hover states and call-to-action highlights
           highlight: "rgba(255, 167, 38, 0.15)", // Light blue overlay for highlighting
-          textHighlight: "#FFB74D", // Vibrant orange for highlighted text backgrounds
+          textHighlight: "#F59E0B", // Vibrant orange for highlighted text backgrounds
         },
         darkMode: {
           light: "#0F172A", // Deep navy for the page background
