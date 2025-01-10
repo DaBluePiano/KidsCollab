@@ -1,14 +1,14 @@
 ---
-title: index
+title: Welcome to KidsCollab!
 draft: false
 tags: 
 author:
 ---
  
-This is KidsCollab beta
+This is KidsCollab Beta
 
 Please view the stable version at 
 
-[sites.google.com/view/kidscollab]
+[KidsCollab](https://sites.google.com/view/kidscollab)
 
-v.0.0.1
+v.0.0.4
