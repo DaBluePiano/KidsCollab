@@ -1,9 +1,11 @@
 ---
+title: Reports
 draft: false
-tags:
-title: Templates
+tags: 
+author:
 ---
 %% Begin Waypoint %%
-- [[Template for Folder notes]]
+
 
 %% End Waypoint %%
+ 

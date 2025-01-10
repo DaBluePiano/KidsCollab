@@ -1,9 +1,9 @@
 ---
 draft: false
 tags:
-title: Templates
+title: Poetry
 ---
 %% Begin Waypoint %%
-- [[Template for Folder notes]]
+
 
 %% End Waypoint %%

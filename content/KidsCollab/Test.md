@@ -1,5 +1,5 @@
 ---
-title: Testing doc
+title: Test
 draft: false
 tags: 
 author: Lucas

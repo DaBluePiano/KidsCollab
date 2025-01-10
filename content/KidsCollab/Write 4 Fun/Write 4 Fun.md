@@ -1,9 +1,9 @@
 ---
 draft: false
 tags:
-title: Templates
+title: Write 4 Fun
 ---
 %% Begin Waypoint %%
-- [[Template for Folder notes]]
+
 
 %% End Waypoint %%

@@ -1,5 +1,5 @@
 ---
-title: Kidscollab BETA
+title: index
 draft: false
 tags: 
 author:

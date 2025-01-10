@@ -4,6 +4,6 @@ tags:
 title: Templates
 ---
 %% Begin Waypoint %%
-- [[Template for Folder notes]]
+- [[Super Smash Bros Ultimate Tactics]]
 
 %% End Waypoint %%
