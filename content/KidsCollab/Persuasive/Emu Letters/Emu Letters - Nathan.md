@@ -2,8 +2,7 @@
 title: Emu Letters - Nathan
 draft: true
 ---
-
-### By Nathan W
+#NathanW
 
 Dear 4L,
 

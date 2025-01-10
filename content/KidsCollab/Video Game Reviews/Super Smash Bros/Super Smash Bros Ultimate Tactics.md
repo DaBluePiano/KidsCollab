@@ -1,4 +1,10 @@
-By Nathan W
+---
+title: Super Smash Bros Ultimate Tactics
+draft: false
+---
+ 
+
+#NathanW 
 
 Here are some of the best characters to play in Super Smash Bros, ranked in terms of power and easiness.
 

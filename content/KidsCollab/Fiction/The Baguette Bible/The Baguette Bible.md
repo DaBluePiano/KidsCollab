@@ -1,9 +1,9 @@
 ---
 draft: false
 tags:
-title: Fiction
+title: Templates
 ---
 %% Begin Waypoint %%
-- **[[The Baguette Bible]]**
+- [[Suspensions]]
 
 %% End Waypoint %%

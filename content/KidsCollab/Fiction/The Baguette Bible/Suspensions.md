@@ -1,10 +1,9 @@
 ---
 title: The Book of Suspensions
 draft: false
-tags: 
-author: Lucas
+tags:
 ---
-
+#LucasL
 ## SOMEONE HELP ME FINISH THIS
 
 ## Chapter 1

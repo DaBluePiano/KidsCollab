@@ -2,8 +2,7 @@
 title: Dog
 draft: false
 ---
-
-### By Sidney L
+#SidneyL 
 
 Hi Mum and Dad, I want a new pet dog because dogs can keep you company; you can use it as a stress reliever; you can exercise at the same time as the dog does.  
 
