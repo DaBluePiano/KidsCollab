@@ -1,5 +1,5 @@
 ---
-title: {{file title}}
+title: How the Olympics Unite the World
 draft: false
 ---
  
