@@ -1,8 +1,9 @@
 ---
 title: Emu Letters - Nathan
 draft: true
+tags:
+    - NathanW
 ---
-#NathanW
 
 Dear 4L,
 
