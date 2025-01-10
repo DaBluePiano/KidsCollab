@@ -13,6 +13,7 @@ title: KidsCollab
 - **[[Reports]]**
 - **[[Science Fiction]]**
 - **[[Speeches]]**
+- [[tags]]
 - [[Test]]
 - [[The Terror of Olympus]]
 - **[[Video Game Reviews]]**
