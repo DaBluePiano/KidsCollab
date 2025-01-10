@@ -1,5 +1,5 @@
 ---
-title: emu letters- Sidney
+title: Emu Letters - Sidney
 draft: true
 ---
 

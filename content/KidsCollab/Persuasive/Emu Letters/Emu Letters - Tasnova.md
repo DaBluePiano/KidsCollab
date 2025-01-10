@@ -1,6 +1,6 @@
 ---
-title: emu letters- Tasnova
-draft: True
+title: Emu Letters - Tasnova
+draft: true
 ---
 
 Dear 4L
