@@ -1,5 +1,5 @@
 ---
-title: {{file title}}
+title: Things I Can't Live Without
 draft: false
 ---
 
