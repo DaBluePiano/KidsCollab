@@ -13,10 +13,15 @@ Zzzzzzzzzz! Zzzzzzzz! Every night you should find yourself sleeping anytime duri
 Firstly, experts say that sleep is very important to you no matter what you think about it. If you think that sleeping is only for babies, or toddlers, think again! Adults have to sleep too! You need to sleep for 9 – 11 hours! You don’t sleep for 5 – 7 hours since it will make you drowsy when you get to school.    
 Experts say that                  
 
+
 Newborns (0 – 3 months) have to sleep between 10.5 – 18 hours a day, 
+
 Infants (4 - 11 months) have to sleep between 9 – 12 hours a day, 
+
 Toddlers (1 – 2 years) have to sleep between 11 – 14 hours a day and  
+
 School Aged Children (Like you!) (6 – 13 years) have to sleep between 9 – 11 hours a day 
+
 See??? Everyone needs Sleep. No matter what your age is. 
  
  
@@ -28,10 +33,15 @@ Last, but definitely not the least, sleep can help you grow, now everyone knows 
 
  
 For all of the reasons above, experts say everyone should be sleeping at their designated times,  
+
 Newborns – 9 – 12 hours, 
+
 Infants – 10.5 – 18 hours, 
+
 Toddlers – 11 – 14 hours and  
+
 School Aged Children – 9 – 11 hours  
+
 Sleeping can affect your daily life negatively and you alter your performance at school, you can misbehave, not think about strong and good choices and get questions wrong you already know. 
 Sleeping can also help your growth and you can be way more beneficial by just… Sleeping!  
 So everyone, experts encourage you to sleep well and as you can see, you will have a happier life! 
