@@ -1,4 +1,10 @@
+---
+title: Van Gogh Alive Review
+draft: false
+---
+
 By Nathan W
+
 Introduction
 Van Gogh Alive is an immersive experience using modern day technology to glimpse into the past through the artworks of one of the most famous painters in history. Vincent Van Gogh (1853-1890) was a Dutch Post-Impressionist painter, who painted the famous Sunflowers and Starry Night.
 The exhibition is taking place all over Australia, notably Canberra and Sydney and was on display in Canberra from mid-2022 to late-2022 and in Sydney from late-2022 to early 2023. It provides a new view to the painter’s works by incorporating technology such as screens and headphones to learn more about the maestro.
