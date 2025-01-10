@@ -11,4 +11,4 @@ Please view the stable version at
 
 [KidsCollab](https://sites.google.com/view/kidscollab)
 
-v.0.0.4
+v.0.0.5
