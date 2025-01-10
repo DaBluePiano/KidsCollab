@@ -18,8 +18,9 @@ export default ((opts?: Options) => {
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
         <p>
-          <a href="https://sites.google.com/view/kidscollab">KidsCollab Beta v.0.0.4</a>
+          <a href="https://sites.google.com/view/kidscollab">KidsCollab Google Sites</a>
         </p>
+        <p>KidsCollab Beta v 0.0.4 Updated {new Date().toLocaleDateString()}</p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
