@@ -1,6 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
-import { version as quartzVersion, kidsCollabVersion } from "../../package.json" // import kidsCollabVersion
+import { version } from "../../package.json"
 import { i18n } from "../i18n"
 
 interface Options {
@@ -15,13 +15,12 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{quartzVersion}</a> © {year}
+          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
         <p>
           <a href="https://sites.google.com/view/kidscollab">KidsCollab Google Sites</a>
         </p>
-        <p>KidsCollab Beta v{kidsCollabVersion} Updated {new Date().toLocaleDateString()}</p>
-        <p>KidsCollab © {year}</p>
+        <p>KidsCollab Beta v 0.0.4 Updated {new Date().toLocaleDateString()}</p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
