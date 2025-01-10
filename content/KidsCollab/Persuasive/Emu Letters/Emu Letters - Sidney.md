@@ -1,8 +1,10 @@
 ---
 title: Emu Letters - Sidney
 draft: true
+tags:
+    - SidneyL
 ---
-#SidneyL
+
 Dear 4L,
 
 You are the worst of the worst class ever!
