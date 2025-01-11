@@ -1,7 +1,7 @@
 ---
 comments: true
-draft: false
-tags:
+draft: true
+tags: 
 title: Templates
 ---
 %% Begin Waypoint %%

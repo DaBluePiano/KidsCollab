@@ -1,6 +1,6 @@
 ---
 comments: true
-draft: false
+draft: true
 tags:
   - FolderNote
 title: KidsCollab
@@ -17,7 +17,6 @@ title: KidsCollab
 - **[[Speeches]]**
 - [[Tags]]
 - [[Test]]
-- [[The Terror of Olympus]]
 - **[[Video Game Reviews]]**
 - **[[Write 4 Fun]]**
 

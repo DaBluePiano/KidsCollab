@@ -1,6 +1,6 @@
 ---
 comments: true
-draft: false
+draft: true
 tags:
   - FolderNote
 title: Super Smash Bros

@@ -1,6 +1,6 @@
 ---
 comments: true
-draft: false
+draft: true
 tags:
   - FolderNote
 title: Write 4 Fun

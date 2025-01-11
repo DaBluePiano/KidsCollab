@@ -1,6 +1,6 @@
 ---
 comments: true
 title: Quartz Template
-draft: false
-tags: []
+draft: true
+tags:
 ---
