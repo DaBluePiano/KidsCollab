@@ -1,7 +1,7 @@
 ---
 draft: false
 tags:
-title: Templates
+title: The Baguette Bible
 ---
 %% Begin Waypoint %%
 - [[Suspensions]]

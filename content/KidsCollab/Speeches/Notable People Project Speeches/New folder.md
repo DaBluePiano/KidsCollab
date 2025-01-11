@@ -1,7 +1,7 @@
 ---
 draft: false
 tags:
-title: Templates
+title: New folder
 ---
 %% Begin Waypoint %%
 - [[Quartz Template]]

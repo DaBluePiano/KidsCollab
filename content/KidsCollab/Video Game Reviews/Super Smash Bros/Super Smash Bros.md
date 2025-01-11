@@ -1,7 +1,7 @@
 ---
 draft: false
 tags:
-title: Templates
+title: Super Smash Bros
 ---
 %% Begin Waypoint %%
 - [[Super Smash Bros Ultimate Tactics]]

@@ -1,7 +1,7 @@
 ---
 draft: false
 tags:
-title: Templates
+title: Video Game Reviews
 ---
 %% Begin Waypoint %%
 - **[[Super Smash Bros]]**

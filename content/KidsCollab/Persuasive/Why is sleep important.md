@@ -1,5 +1,5 @@
 ---
-title: Why is sleep important?
+title: Why is sleep important
 draft: false
 tags:
     - SidneyL

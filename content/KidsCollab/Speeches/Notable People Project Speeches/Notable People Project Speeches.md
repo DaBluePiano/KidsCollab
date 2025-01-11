@@ -1,7 +1,7 @@
 ---
 draft: false
 tags:
-title: Templates
+title: Notable People Project Speeches
 ---
 %% Begin Waypoint %%
 - [[Dr Karl]]

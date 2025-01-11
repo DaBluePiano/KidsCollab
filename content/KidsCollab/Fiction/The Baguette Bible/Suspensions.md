@@ -1,5 +1,5 @@
 ---
-title: The Book of Suspensions
+title: Suspensions
 draft: false
 tags:
     - LucasL

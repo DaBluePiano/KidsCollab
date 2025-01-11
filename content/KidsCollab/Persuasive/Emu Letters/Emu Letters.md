@@ -1,7 +1,7 @@
 ---
 draft: false
 tags: 
-title: Templates
+title: Emu Letters
 ---
 %% Begin Waypoint %%
 - [[Emu Letters - Marcus]]

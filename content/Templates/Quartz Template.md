@@ -1,5 +1,5 @@
 ---
-title: Title
+title: Quartz Template
 draft: false
 tags: []
 ---
