@@ -5,7 +5,21 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'dabluepiano/kidscollab',
+        // from data-repo-id
+        repoId: 'R_kgDONnbHKw',
+        //from data-category
+        category: 'Announcements',
+        //from data-category-id
+        categoryId: 'DIC_kwDONnbHK84Cl3wA',
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/dabluepiano/kidscollab",
@@ -47,3 +61,4 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
