@@ -42,7 +42,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
       filterFn: (node) => {
-        // exclude files with the tag "explorerexclude"
         return node.file?.frontmatter?.tags?.includes("FolderNote") !== true
       },
     })),
