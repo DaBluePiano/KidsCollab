@@ -1,7 +1,8 @@
 ---
 comments: true
 draft: false
-tags: 
+tags:
+  - FolderNote
 title: Emu Letters
 ---
 %% Begin Waypoint %%

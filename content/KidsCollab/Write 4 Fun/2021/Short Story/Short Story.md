@@ -2,6 +2,7 @@
 comments: true
 draft: false
 tags:
+  - FolderNote
 title: Short Story
 ---
 %% Begin Waypoint %%

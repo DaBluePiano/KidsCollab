@@ -2,13 +2,10 @@
 comments: true
 title: Reports
 draft: false
-tags: 
+tags:
+  - FolderNote
 author:
 ---
-%% Begin Waypoint %%
-- [[Template for Folder notes]]
-
-%% End Waypoint %%
 %% Begin Waypoint %%
 - [[Geomorphic Hazards - Afghanistan 2022 Earthquake]]
 - [[Van Gogh Alive Review]]
