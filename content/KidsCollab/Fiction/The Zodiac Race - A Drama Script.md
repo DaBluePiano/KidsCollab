@@ -1,7 +1,7 @@
 ---
 title: The Zodiac Race - A Drama Script
 draft: false
-tags: NathanW ChristanC DillonT AlexC NicholasL
+tags: NathanW, ChristanC, DillonT, AlexC, NicholasL
 ---
 
 Characters: 

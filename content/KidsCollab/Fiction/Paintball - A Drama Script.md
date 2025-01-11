@@ -1,7 +1,7 @@
 ---
 title: Paintball - A Drama Script
 draft: false
-tags: NikhilS XanderO IvanH TerryP JackM
+tags: NikhilS, XanderO, IvanH, TerryP, JackM
 ---
  
 Characters:

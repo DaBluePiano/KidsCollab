@@ -5,11 +5,11 @@ tags: Unknown
 ---
  
 
-<center># Prologue</center>
+<center><strong>Prologue</strong></center>
 
 The winds were howling. Wind was driving the rain sideways in sheets, drenching anything that came within reach. Thunder and lightning lit up the sky and provided the only auditory respite from the constant rain. This storm was one of a kind. This magnitude had never been seen before in living memory. It battered the coast of Norway, littering the towns and villages with leaves, wood and dirt. It had raged on for five days now, and showed no signs of stopping. During the storm, a ship was sailing up the  North Sea. It was a battleship, ready for war, filled with warriors from all of Saxony and Prussia. Their goal? To destroy Norway.
 
-<center>Part I</center>
+<center><strong>Part I</strong></center>
 
 Otte Hallinson was riding back from Christiana. Shadows were lengthening and the sun was lowering itself in the sky. When he finally agreed with himself that he should stop for the night, he swung himself off the saddle and sat down. Otte liked doing camp chores, as it appealed with his sense of adventure. Two flicks of his flint and steel, and there was a roaring fire going. As he was setting up his tent, the wind started to pick up. Rain started to fall from the sky. Lightning flashed and tinder boomed. The storm was here. Otte’s horse, Rouge, started to feel unsettled while Otte tried to find a cave. Any cave. A cave with a solid roof. There was a small crack in the ground where he could shelter. Once all of the equipment was inside, Otte realised how tired he was and fell asleep.
 
@@ -27,7 +27,7 @@ Don’t worry about me, I’ll be back one day.
 
 I will come back.</i></center>
 
-<center># Part II</center>
+<center><strong>Part II</strong></center>
 
 Hamburg was a busy city. There were ships everywhere. The tall masts created a forest of bare trunks. However, many of these masts did have sails. One of them happened to be Jaunt, the ship Otte was sailing on. As he left the decks of the small craft, he stood in awe. People were everywhere. Pubs and inns were roaring with trade and the markets were filled with the echoes and shouts of many bargainers. Otte, his boots finally on solid ground, went searching. Not for Leif. That could wait. It was more for a place to stay. Instincts told him that it wouldn’t be worth it to just do it in one day. That would never happen. Instead, sneak around and get an idea of what he was facing, and then plan to do what he wanted.
 
@@ -39,7 +39,7 @@ As the night rolled in, Otte couldn’t sleep. Why? He was afraid of what would 
 
 Slowly but surely, he arrived at the gates of the Ruling House. ‘Who goes there?’ barked the sentry. Otte winced and hid behind a tree. The armoured guard relaxed. Climbing over the five metre fence, Otte arrived at the prison. Getting out his lock-picking kit to open the door, he heard a sound. ‘What are you doing?’
 
-<center># Part III</center>
+<center><strong>Part III</strong></center>
 
 His instincts told him to run. A guard of soldiers was approaching. Maybe that sentry was just faking to see if he would break in. He would never know, but now was not the time to be thinking that. Drawing out his sword, he faced the enemy. Dodging a side cut, he knocked out a guard with a well placed blow. One of the others knocked him off balance, but he recovered quickly and with another blow, he hit his solar plexus and drove out all the air. The others were now running. They had been told to dispose of the intruder. Now he had dispatched two of their best soldiers in a matter of five seconds.
 
@@ -55,7 +55,7 @@ The battle raged for two minutes. Otte accounted for two of the twenty defenders
 
 Leif nodded to Otte. ‘Good job, I’m proud of you. Now, to get home.’
 
-<center>Part IV</center>
+<center><strong>Part IV</strong></center>
 
 Rounding Sognefjord, Otte looked behind them. There was a whole armada of ships following them at a distance of around five kilometres. ‘Nearly home,’ Otte mentioned. ‘Right you are.’ Agreed Leif.
 
