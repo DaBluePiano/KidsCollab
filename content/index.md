@@ -1,5 +1,5 @@
 ---
-title: Welcome to KidsCollab β!
+title: index
 draft: false
 tags: 
 author:

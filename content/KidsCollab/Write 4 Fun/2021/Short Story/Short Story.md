@@ -1,7 +1,7 @@
 ---
 draft: false
 tags:
-title: Templates
+title: Short Story
 ---
 %% Begin Waypoint %%
 - [[A Leap of Faith]]

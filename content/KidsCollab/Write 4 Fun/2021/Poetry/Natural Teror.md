@@ -1,5 +1,5 @@
 ---
-title: Natural Terror
+title: Natural Teror
 draft: false
 tags: NathanW
 ---

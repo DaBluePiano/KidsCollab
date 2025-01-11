@@ -1,7 +1,7 @@
 ---
 draft: false
 tags:
-title: Templates
+title: Poetry
 ---
 %% Begin Waypoint %%
 - [[A Dog]]
