@@ -1,9 +1,10 @@
 ---
 draft: false
 tags:
-title: Write 4 Fun
+title: Templates
 ---
 %% Begin Waypoint %%
-- **[[2021]]**
+- [[A Dog]]
+- [[Natural Teror]]
 
 %% End Waypoint %%
