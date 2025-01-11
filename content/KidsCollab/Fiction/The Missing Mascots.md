@@ -1,4 +1,5 @@
 ---
+comments: true
 title: The Missing Mascots
 draft: false
 tags: NathanW

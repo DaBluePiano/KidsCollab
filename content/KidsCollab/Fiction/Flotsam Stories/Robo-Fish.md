@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Robo-Fish
 draft: false
 tags: SidneyL

@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Paintball - A Drama Script
 draft: false
 tags: NikhilS, XanderO, IvanH, TerryP, JackM

@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Geomorphic Hazards - Afghanistan 2022 Earthquake
 draft: false
 tags:

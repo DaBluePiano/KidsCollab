@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Different
 draft: false
 tags: NathanW

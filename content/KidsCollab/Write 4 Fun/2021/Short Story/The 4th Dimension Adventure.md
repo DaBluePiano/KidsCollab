@@ -1,4 +1,5 @@
 ---
+comments: true
 title: The 4th Dimension Adventure
 draft: false
 tags: AlvinC

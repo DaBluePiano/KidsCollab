@@ -1,4 +1,5 @@
 ---
+comments: true
 draft: false
 tags:
 title: Speeches

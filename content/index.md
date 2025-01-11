@@ -1,4 +1,5 @@
 ---
+comments: true
 title: index
 draft: false
 tags: 

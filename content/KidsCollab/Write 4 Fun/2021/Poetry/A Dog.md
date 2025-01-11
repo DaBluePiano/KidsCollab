@@ -1,4 +1,5 @@
 ---
+comments: true
 title: A Dog
 draft: false
 tags: AryavvK

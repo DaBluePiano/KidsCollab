@@ -1,4 +1,5 @@
 ---
+comments: true
 title: The Zodiac Race - A Drama Script
 draft: false
 tags: NathanW, ChristianC, DillonT, AlexC, NicholasL

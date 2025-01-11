@@ -1,4 +1,5 @@
 ---
+comments: true
 title: "Grandma's Attic"
 draft: false
 tags: AlvinL

@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Sidney L - My Year in 2020
 draft: false
 tags: SidneyL

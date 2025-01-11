@@ -1,7 +1,8 @@
 ---
+comments: true
 draft: false
 tags:
-title: Templates
+title: Flotsam Stories
 ---
 %% Begin Waypoint %%
 - [[Glorious Dunes]]

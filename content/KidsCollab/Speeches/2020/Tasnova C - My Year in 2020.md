@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Tasnova C - My Year in 2020
 draft: false
 tags: TasnovaC

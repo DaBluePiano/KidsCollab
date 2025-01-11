@@ -1,4 +1,5 @@
 ---
+comments: true
 title: A Reckless Rodeo
 draft: false
 tags: AdamP

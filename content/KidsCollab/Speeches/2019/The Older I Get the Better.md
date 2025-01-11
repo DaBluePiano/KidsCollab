@@ -1,4 +1,5 @@
 ---
+comments: true
 title: The Older I Get the Better
 draft: false
 tags: NathanW

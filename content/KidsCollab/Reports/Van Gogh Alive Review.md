@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Van Gogh Alive Review
 draft: false
 tags:

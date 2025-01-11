@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Glorious Dunes
 draft: false
 tags: NathanW

@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Grey City
 draft: false
 tags: NathanW

@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Why is sleep important
 draft: false
 tags:

@@ -1,5 +1,6 @@
 ---
-title: A Monster's Identity
+comments: true
+title: "A Monster's Identity"
 draft: false
 tags: NathanW
 ---

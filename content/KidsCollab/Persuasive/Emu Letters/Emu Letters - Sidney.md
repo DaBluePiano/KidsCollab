@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Emu Letters - Sidney
 draft: true
 tags:

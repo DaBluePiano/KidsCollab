@@ -1,4 +1,5 @@
 ---
+comments: true
 title: If Looks Could Kill
 draft: false
 tags: NathanW

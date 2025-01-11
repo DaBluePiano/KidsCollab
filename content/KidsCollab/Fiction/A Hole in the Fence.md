@@ -1,4 +1,5 @@
 ---
+comments: true
 title: A Hole in the Fence
 draft: false
 tags: AdamP

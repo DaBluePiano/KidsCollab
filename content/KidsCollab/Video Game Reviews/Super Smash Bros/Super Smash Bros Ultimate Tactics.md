@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Super Smash Bros Ultimate Tactics
 draft: false
 tags:

@@ -1,4 +1,5 @@
 ---
+comments: true
 title: "Things I Can't Live Without"
 draft: false
 tags:

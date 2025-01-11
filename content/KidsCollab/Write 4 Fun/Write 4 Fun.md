@@ -1,4 +1,5 @@
 ---
+comments: true
 draft: false
 tags:
 title: Write 4 Fun

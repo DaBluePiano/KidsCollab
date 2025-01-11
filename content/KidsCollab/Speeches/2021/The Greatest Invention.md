@@ -1,4 +1,5 @@
 ---
+comments: true
 title: The Greatest Invention
 draft: false
 tags: NathanW

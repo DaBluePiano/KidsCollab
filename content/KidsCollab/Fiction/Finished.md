@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Finished
 draft: false
 tags: NathanW

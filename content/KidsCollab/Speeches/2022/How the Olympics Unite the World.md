@@ -1,4 +1,5 @@
 ---
+comments: true
 title: How the Olympics Unite the World
 draft: false
 tags:

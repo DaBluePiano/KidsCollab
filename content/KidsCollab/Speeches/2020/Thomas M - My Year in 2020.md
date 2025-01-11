@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Thomas M - My Year in 2020
 draft: false
 tags: ThomasM

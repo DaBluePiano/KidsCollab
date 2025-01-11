@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Razing
 draft: false
 tags: NathanW

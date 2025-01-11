@@ -1,4 +1,5 @@
 ---
+comments: true
 title: The Koopas
 draft: false
 tags: JamieW

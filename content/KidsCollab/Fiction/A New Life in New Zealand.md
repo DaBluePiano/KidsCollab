@@ -1,4 +1,5 @@
 ---
+comments: true
 title: A New Life in New Zealand
 draft: false
 tags: NathanW

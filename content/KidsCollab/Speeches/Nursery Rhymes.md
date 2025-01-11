@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Nursery Rhymes
 draft: false
 tags: NathanW

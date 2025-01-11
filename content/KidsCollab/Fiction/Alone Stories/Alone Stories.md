@@ -1,7 +1,8 @@
 ---
+comments: true
 draft: false
 tags:
-title: Templates
+title: Alone Stories
 ---
 %% Begin Waypoint %%
 - [[Leo J - Alone]]

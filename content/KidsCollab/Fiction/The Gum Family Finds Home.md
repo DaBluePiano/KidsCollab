@@ -1,4 +1,5 @@
 ---
+comments: true
 title: The Gum Family Finds Home
 draft: false
 tags: SidneyL

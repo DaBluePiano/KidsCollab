@@ -1,4 +1,5 @@
 ---
+comments: true
 title: An Apple a Day Keeps the Doctor Away
 draft: false
 tags: SidneyL

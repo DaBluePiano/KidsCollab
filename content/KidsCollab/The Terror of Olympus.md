@@ -1,4 +1,5 @@
 ---
+comments: true
 title: The Terror of Olympus
 draft: false
 tags: 

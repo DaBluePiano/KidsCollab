@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Desperation
 draft: false
 tags: NathanW

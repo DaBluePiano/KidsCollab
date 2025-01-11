@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Natural Teror
 draft: false
 tags: NathanW

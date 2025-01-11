@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Rain, Town, Rescue, Battle
 draft: false
 tags: Unknown

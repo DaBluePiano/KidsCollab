@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Dr Karl
 draft: false
 tags: NathanW

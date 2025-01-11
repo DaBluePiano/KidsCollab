@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Pinocchio Essay
 draft: false
 tags: NathanW

@@ -1,4 +1,5 @@
 ---
+comments: true
 title: The Abduction
 draft: false
 tags: ScottH

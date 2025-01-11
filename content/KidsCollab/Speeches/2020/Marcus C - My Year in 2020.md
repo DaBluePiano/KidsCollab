@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Marcus C - My Year in 2020
 draft: false
 tags: MarcusC

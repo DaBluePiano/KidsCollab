@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Nay Farn
 draft: false
 tags: NathanW

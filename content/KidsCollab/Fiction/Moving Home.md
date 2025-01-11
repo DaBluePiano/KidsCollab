@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Moving Home
 draft: false
 tags: NathanW

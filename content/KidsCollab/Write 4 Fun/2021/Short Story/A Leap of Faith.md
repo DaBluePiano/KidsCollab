@@ -1,4 +1,5 @@
 ---
+comments: true
 title: A Leap of Faith
 draft: false
 tags: ThomasM
