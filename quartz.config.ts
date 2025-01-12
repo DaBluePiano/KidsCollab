@@ -30,27 +30,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f4efe4", // Clean and very light blue-gray for the page background
-          lightgray: "#ddd5c2", // Softer light blue for borders and subtle accents
-          gray: "#b3ab9a", // Muted gray-blue for links and heavier borders
-          darkgray: "#545351", // Brighter, readable gray for body text
-          dark: "#1C1F26", // Deep charcoal for headings and important text
-          secondary: "#dd7f2a", // Rich blue for links and current section highlights
-          tertiary: "#1887bf", // Warm orange for hover states and call-to-action highlights
-          highlight: "rgba(255, 167, 38, 0.15)", // Light blue overlay for highlighting
-          textHighlight: "#F59E0B", // Vibrant orange for highlighted text backgrounds
+          light: "#f4efe4", // background
+          lightgray: "#ddd5c2", // borders
+          gray: "#b3ab9a", // graph links, heavier borders
+          darkgray: "#545351", // body text
+          dark: "#1C1F26", // header text and icons
+          secondary: "#dd7f2a", // link colour, current graph node
+          tertiary: "#1887bf", // hover states, visited graph nodes
+          highlight: "rgba(255, 167, 38, 0.15)", // internal link background, highlighted text, highlighted lines of code
+          textHighlight: "#F59E0B", // markdown highlighted text background
         },
         darkMode: {
-          light: "#0F172A", // Deep navy for the page background
-          lightgray: "#1E293B", // Muted blue-gray for borders
-          gray: "#475569", // Subtle gray-blue for less prominent text
-          darkgray: "#94A3B8", // Softer light blue for readable body text
-          dark: "#E2E8F0", // Off-white for headings and prominent text
-          secondary: "#3B82F6", // Bright blue for links and active elements
-          tertiary: "#F59E0B", // Soft amber for hover states and highlights
-          highlight: "rgba(59, 130, 246, 0.15)", // Light blue for hover backgrounds
-          textHighlight: "#FACC15", // Brighter yellow for highlighted text
-        },
+          light: "#0F172A", // background
+          lightgray: "#1E293B", // borders
+          gray: "#475569", // graph links, heavier borders
+          darkgray: "#94A3B8", // body text
+          dark: "#E2E8F0", // header text and icons
+          secondary: "#3B82F6", // link colour, current graph node
+          tertiary: "#F59E0B", // hover states, visited graph nodes
+          highlight: "rgba(59, 130, 246, 0.15)", // internal link background, highlighted text, highlighted lines of code
+          textHighlight: "#FACC15", // markdown highlighted text background
       },
     },
   },
