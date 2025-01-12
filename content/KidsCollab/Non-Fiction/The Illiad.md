@@ -1,8 +1,7 @@
 ---
-title: {{file title}}
+title: The Illiad
 draft: false
-tags: 
-    - 
+tags: NathanW
 comments: true
 ---
 
