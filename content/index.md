@@ -14,4 +14,4 @@ Please view the stable version at
 
 # KidsCollab Item Submission Form
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfsDvKfpNUXUs6h3tyTgPMhFLOixsAuV81mPo9T1VH7yqxiQg/viewform?embedded=true" width="640" height="1147" frameborder="0" marginheight="0" marginwidth="0" corner-radius= 10px>Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfsDvKfpNUXUs6h3tyTgPMhFLOixsAuV81mPo9T1VH7yqxiQg/viewform?embedded=true" width="640" height="1147" frameborder="0" marginheight="0" marginwidth="0" corner-radius= "10px">Loading…</iframe>
