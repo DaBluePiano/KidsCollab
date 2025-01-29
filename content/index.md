@@ -8,6 +8,6 @@ author:
  
 This is KidsCollab Beta
 
-Please view the stable version at 
+Please view the stable version at
 
 [KidsCollab](https://sites.google.com/view/kidscollab)
