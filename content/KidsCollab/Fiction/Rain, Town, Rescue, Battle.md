@@ -71,6 +71,3 @@ The soldiers started at a steady jog, not wanting to waste their energy. Otte te
 It was a fierce battle. It raged on for three hours before the Saxons finally signalled their retreat and left. Though there weren't many of them left. Of the one hundred and fifty that arrived, only seventy two left.
 
 Otte finally felt like he was a warrior. Until then, he had gazed up at them, larger than life figures. Now he was finally an equal. This story was not one that would pass easily. It would go down for many years. And so would Otte too.
-
-
-
