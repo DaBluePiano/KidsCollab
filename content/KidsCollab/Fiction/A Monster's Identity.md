@@ -16,5 +16,3 @@ Cernunnos. The Green Man. Herne the Hunter. These were the only names the monste
 Justice. Belief. Anger. All the things Conor thought he had already or didn’t need - the things the monster taught him was in him all along. It had come walking for him, not because it saw him, but because it was him. The monster was him, the wild emotions he experienced, the raw grief he felt, and it had burst out of him, manifested, come walking, to show him what he was missing. The monster was wild, uncontrollable as nature, and as much as it was Conor it was not, and this strange truth echoed the lessons of the monster. I wish I had a hundred years, His mother had said to him, A hundred years I could give to you. And Conor knew that from the monster he had learnt much more than 100 years, that he himself had unlocked an eternal part of humanity. He looked at his drawings on his desk in his pyjamas. The monster, with life in its eyes, which he knew now was his life.
 
 Conor and the monster slept peacefully, facing the yew tree.
-
-

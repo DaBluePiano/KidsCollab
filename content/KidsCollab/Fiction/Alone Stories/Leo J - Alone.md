@@ -17,4 +17,3 @@ I was trying to call anyone who is in my phone call list but the problem was I h
 I freaked out again and moved as fast and move as fast as I can to ‘Korean Mart’. ‘Ding, Ding, Ding’ The door opened I gave the sign of helping and the notice I got hurt. The mart owner comes out with medicine chest I now have some relax time. Other customer shouted like a baby crying. I said ‘What happen’ and she said “It, it looks like: the best ketchup from ‘5G’s ketchup shop.’”
 
 I felt if I could I will go into the mouse hole. It was not blood, ketchup, yes, the tomato sauce that we eat. I just fell over on the ketchup no blood. After I got Band-Aid and I walk slowly and go back home the time was 7am, time to go work.
-

@@ -9,7 +9,6 @@ tags: NathanW
 
 This story may contain names that are similar to a popular book and TV series.</i>
 
-
 The woods shifts, shadows crawling, crawling, moving, almost alive.
 
 A spot of white, the lonely traveller in the gloomy night.
@@ -20,7 +19,7 @@ Peter Rabbit hobbles on the forest path, glancing from side to side.
 
 A splash of orange, darting from his side.
 
-Peter looks around fearfully, crouching, getting ready to run, when - 
+Peter looks around fearfully, crouching, getting ready to run, when -
 
 “Hello, Peter.”
 

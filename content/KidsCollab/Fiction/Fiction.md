@@ -6,6 +6,7 @@ tags:
 title: Fiction
 ---
 %% Begin Waypoint %%
+
 - [[A Hole in the Fence]]
 - [[A Monster's Identity]]
 - [[A New Life in New Zealand]]

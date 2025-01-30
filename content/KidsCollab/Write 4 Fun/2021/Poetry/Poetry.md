@@ -6,6 +6,7 @@ tags:
 title: Poetry
 ---
 %% Begin Waypoint %%
+
 - [[A Dog]]
 - [[Natural Teror]]
 

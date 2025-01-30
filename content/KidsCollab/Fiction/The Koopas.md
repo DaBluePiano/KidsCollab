@@ -18,14 +18,11 @@ They also stole wands to petrify Mario/crew.That means that they can
 turn Mario/crew into stone. Yikes!
 
 The Koopalings are also known for being the bosses of Super Mario
-Bros.U Deluxe. 
+Bros.U Deluxe.
 
-Lemmy uses stone spells and shell spins. Morton prefers hitting giant pokeys with his hammer to send them flying towards Mario. Wendy likes 
+Lemmy uses stone spells and shell spins. Morton prefers hitting giant pokeys with his hammer to send them flying towards Mario. Wendy likes
 to skate on ice while sending spells from her wand. Larry uses the same as
-Lemmy. Iggy is super-fast and summons lava/lava monsters. Roy blasts 
+Lemmy. Iggy is super-fast and summons lava/lava monsters. Roy blasts
 Bullet Bills from his Bill blaster. Ludwig has his very own powers and his wand. Lastly, Bowser breathes fireballs.
 
 To find out more about the Koopa’s, just ask me to send you more!
-
-
-

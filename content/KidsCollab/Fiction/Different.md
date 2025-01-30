@@ -16,4 +16,3 @@ As he made his way back home, the wind blew even harsher on him as he heard the 
 But today he was not alone. Today kids streamed out of the school gates beginning a long trek to their households. Today, the weather smiled like it was taunting him, like it had joined his oppressors, like even nature had turned against him. Today, he felt the tugging on his backpack like he always did. The rough hands of the boy everyone knew for one reason or the other pulled on the holder of his meagre possessions and threw them onto the road. Then, he reversed his direction and pushed into Gavin.
 
 The ground came closer in to embrace him. His only friend.
-

@@ -7,5 +7,4 @@ title: Other
 ---
 %% Begin Waypoint %%
 
-
 %% End Waypoint %%

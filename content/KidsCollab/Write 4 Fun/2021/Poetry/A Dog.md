@@ -23,4 +23,4 @@ so it sprinted in and grabbed a biscuit tin,
 
 the man felt surprised that the dog was eating,
 
-so he went in to the dog and gave him a beating. 
+so he went in to the dog and gave him a beating.

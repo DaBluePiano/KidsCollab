@@ -30,4 +30,4 @@ Just a dream…
 I was just about to die when I woke up and figured out that it was just a dream. Just then, I heard a sound coming from the attic. “Destroy earth…” Maybe that’s for another story. Here we go again!!!
 
 The End
-Or is it? 
+Or is it?

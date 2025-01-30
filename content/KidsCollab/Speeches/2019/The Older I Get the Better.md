@@ -15,5 +15,3 @@ There are also many great movies we can’t watch as kids because they are rated
 So far I’ve explained how growing up is great for you. But when we grow up it’s also great for others. For example, think about your poor parents - they have had to deal with changing our nappies, vomit not to mention tantrums. Luckily for them, in the future they won’t have to look after you because you can look after yourself. Also, don’t tell anyone, but your teachers will probably be glad to get rid of you after many years of putting up with your childish behaviours. Therefore growing up is the greatest for all kinds of people around you .
 
 Everyone loves getting older. I used to sit in a highchair and not be able to talk, walk or even stand up but here I am now, at 8 years old doing all three! There are even more things I have to look forward to like work, money, knowledge and movies when I’m 18, 28 and beyond. Growing up is the greatest!
-
-

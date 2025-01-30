@@ -6,6 +6,7 @@ tags:
 title: Flotsam Stories
 ---
 %% Begin Waypoint %%
+
 - [[Glorious Dunes]]
 - [[New folder]]
 - [[Robo-Fish]]

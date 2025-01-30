@@ -31,9 +31,8 @@ They added a roof as a shelter.
 
 Surprisingly, they bought two comfy sofas just for comfort in the OP shop for just $2!! HOW CHEAP IS THAT!?
 
-They were very comfortable in their upgraded gum tree. 
+They were very comfortable in their upgraded gum tree.
 
 Now their house is absent from harsh conditions.
 
-
-The End 
+The End

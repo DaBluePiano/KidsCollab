@@ -16,7 +16,7 @@ Well, this proverb actually comes from Wales, a very big country in Britain and 
 But then, you’ll be asking, “Now that I know that where ‘An apple a day keeps the doctor away’ comes from, but I don’t know what it means!”
 
 “An apple a day keeps the doctor away” is a very popular 19th century proverb which means that eating an apple a day will keep you away from the doctors for less regular check-ups than now. How amazing is that! By just eating one apple day can keep you from the doctors forever!?
- 
+
 So, an apple a day keeps the doctor away… How? Well, there are many vitamins in our delicious apples! There are vitamins like Vitamin A, B12, C, and, last of all, Vitamin D.
 
 These vitamins are very good for your body and your immune system and some may even prevent you from getting illnesses and diseases that you don’t really want to happen in your body.

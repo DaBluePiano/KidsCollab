@@ -5,7 +5,7 @@ draft: false
 tags: NathanW, ChristianC, DillonT, AlexC, NicholasL
 ---
 
-Characters: 
+Characters:
 
 Dragon, Rabbit/Bunny, Snake, Rooster and Dog
 
@@ -15,18 +15,17 @@ Mask for each character or each character holds a piece of paper that says what 
 
 Cloud costume,  cardboard with outline of cloud
 
-Easter egg basket 
+Easter egg basket
 
 Drama block for mountain-
 
-Hat with KFC written on it 
+Hat with KFC written on it
 
 Blue blanket for river
 
 KFC bag
 
-Pig mask            
-
+Pig mask
 
 (All enter scene from right, all wearing pieces of paper that has their name on it)
 
@@ -76,7 +75,7 @@ Dragon: Oh brother . . .
 
 Dragon: but I got held up more by the bunny . . .
 
-Bunny: Ooh! Now it’s my turn! 
+Bunny: Ooh! Now it’s my turn!
 
 Dog: (quietly) HhMMmm! (angrily)
 
@@ -148,13 +147,13 @@ Snake: I hid in the basket to cross the river. It was the perfect ploy! Except  
 
 (Dragon swoops down, knocks snake out of basket)
 
-Bunny:(surprised) Oh! Snake! In my basket? I don’t think so! 
+Bunny:(surprised) Oh! Snake! In my basket? I don’t think so!
 
 (Knocks snake out into river)
 
 (Bunny throws another egg in Dragon’s face, crosses finish line before him)
 
-Dragon: Hey what! No fair! 
+Dragon: Hey what! No fair!
 
 (crosses line)
 
@@ -200,9 +199,9 @@ Rooster: Um, I’m afraid that there’s been a mistake. I’m a rooster, not a-
 
 KFC Guy: I knew it! You betrayed us for Red Rooster!
 
-Rooster: Well, I mean, Red Rooster IS better, but  . . . 
+Rooster: Well, I mean, Red Rooster IS better, but  . . .
 
-KFC Guy: Traitor! 
+KFC Guy: Traitor!
 
 (chases Rooster around)
 
@@ -226,7 +225,7 @@ Dog: It wasn’t my fault! Here’s the story . . .
 
 (dragon becomes pig)
 
-Dog: You see, the thing you have to understand about dogs is that we are insanely loyal. But only to our master.   
+Dog: You see, the thing you have to understand about dogs is that we are insanely loyal. But only to our master.
 
 ( pig falls, over sleeping)
 
@@ -234,7 +233,7 @@ Dog: The thing is, my master was the pig!
 
 (Dog prods pig, to try to get it to wake up)
 
-Dog: I had to keep waking my master up, and walking by its side to the 
+Dog: I had to keep waking my master up, and walking by its side to the
 very end!
 
 (pig falls over again, dog wakes up again. Repeat as they move through mountains)
@@ -270,4 +269,3 @@ Snake: Did someone say KFC?
 All: WE DON’T CARE!!!!! WE LOVE IT!!!!!!!!!
 
 (exit scene)
-

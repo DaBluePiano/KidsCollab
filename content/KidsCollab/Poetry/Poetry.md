@@ -7,5 +7,4 @@ title: Poetry
 ---
 %% Begin Waypoint %%
 
-
 %% End Waypoint %%

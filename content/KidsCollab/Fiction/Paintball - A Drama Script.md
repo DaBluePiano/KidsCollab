@@ -17,7 +17,6 @@ Referee  - Jack
 
 Goofy - Ivan
 
-
 Scene: (A paintball field. 5 friends are getting for a 2v2 while one is refereeing.)
 
 Jack: Alright everyone, gather around! We’re about to start the paintball match. Xander, Terry, Nikhil and Ivan listen up!
@@ -28,7 +27,7 @@ Terry: (aggressively) Let's do this! We’re gonna win!
 
 Nikhil: (focused) Remember, teamwork and strategy are crucial. We need to coordinate our moves.
 
-Ivan (confused) Umm guys I don't even know how to hold this gun 
+Ivan (confused) Umm guys I don't even know how to hold this gun
 
 Jack: (smiling) Don't worry Ivan I'll explain the rules. Each team is trying to aim for the opponent, and that's all I know, sorry guys…
 
@@ -42,7 +41,7 @@ Xander: (whispering to Terry) Can we just hide here and avoid getting shot?
 
 Terry: (frustrated) No, We came here to play, not hide like a bunch of 5-year-olds!
 
-Nikhil: (pointing to the field) Ivan, take the left flank while I advance from the right. 
+Nikhil: (pointing to the field) Ivan, take the left flank while I advance from the right.
 
 Ivan: (reluctantly) Fine but make it quick
 
@@ -91,7 +90,7 @@ Terry: (furious from a distance) That was a lucky shot I DEMAND A REMATCH AH
 (Scene: Ivan and Nikhil continue to engage the enemy. Using their teamwork and strategy. Also, Ivan gets out)
 
 Nikhil (calling out to Ivan) Ivan, take cover behind the barrels! Wait for the perfect moment to strike!
- 
+
 Ivan: (tripping over his own feet) Oops I accidentally shot myself
 
 Jack: Okay Ivan that doesn’t count, just keep going
@@ -126,9 +125,9 @@ Ivan: (From the sidelines) You mean WE win?
 
 Nikhil: Yea ok
 
-Terry: (From the sidelines) Wait can someone repeat that I wasn't listening 
+Terry: (From the sidelines) Wait can someone repeat that I wasn't listening
 
-(scene - character - referee) 
+(scene - character - referee)
 
 Jack: Full Time! Wait, who won I didn't hear either.
 
@@ -140,7 +139,7 @@ Ivan: What, what do you mean? Do you mean that all this time… really?
 
 Xander: (half at Nikhil) You mean that I was dragged out here for nothing?? WHY. I COULD BE DOING ANYTHING ELSE IsI ACTUALLY ENJOY RIGHT NOW. SERIOUSLY.
 
-Jack: Look do you think I also want to be here? 
+Jack: Look do you think I also want to be here?
 
 Terry: Yes. Paintball is awesome! Also who won?
 
@@ -158,7 +157,7 @@ Terry: OH COME ON! (walking up to Ivan, Xander and Nikhil) Hey guys, ready for a
 
 Xander: Yeah, no thanks I'm good
 
-Jack: Yeah, me neither, plus you won't have a ref anymore remember? 
+Jack: Yeah, me neither, plus you won't have a ref anymore remember?
 
 Terry: Oh yeah
 

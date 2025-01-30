@@ -19,6 +19,4 @@ The hippo could not find an entrance he could fit in, so he busted through the o
 The lioness accidentally ate Emu Blue’s little brother, Emu Clue, and was trialed in a fully fledged court case.
 And the elephant trashed our beautiful and new L block and left Con’s shed screaming in pain
 
-
-Emu was horrified by this dastardly outcome and waddled at an alarming speed towards all the trouble. However, once he had freed the tangled giraffe, the dazed gorilla, the cheetah that had square spots, the clumsy hippo, the murderous lioness and the destructive elephant they were too big to get out of the school. So the other schools’ mascots have gone missing, and Excel School had an extra six. So I think it’s fair to say, being stuck inside brings out the worst of you.
-
+wEmu was horrified by this dastardly outcome and waddled at an alarming speed towards all the trouble. However, once he had freed the tangled giraffe, the dazed gorilla, the cheetah that had square spots, the clumsy hippo, the murderous lioness and the destructive elephant they were too big to get out of the school. So the other schools’ mascots have gone missing, and Excel School had an extra six. So I think it’s fair to say, being stuck inside brings out the worst of you.

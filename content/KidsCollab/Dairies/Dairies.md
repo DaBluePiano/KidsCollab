@@ -7,5 +7,4 @@ title: Dairies
 ---
 %% Begin Waypoint %%
 
-
 %% End Waypoint %%

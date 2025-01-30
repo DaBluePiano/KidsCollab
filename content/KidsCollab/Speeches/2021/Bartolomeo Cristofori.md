@@ -22,5 +22,3 @@ Cristofori became less and less famous over time, due to court employment, centu
 In my point of view, Bartolomeo Cristofori is a very important person to me and should be recognized very widely, being the inventor of the piano. If Cristofori did not bother inventing the very complex mechanisms, today, we would not have a piano! We would only be living with a harpsichord! Famous composers like Mozart, Beethoven and Haydn would not have been able to compose those very articulated dynamics and those beautiful harmonies.
 
 I wonder if you believe that Bartolomeo Cristofori is one of the most significant people in history. I wonder what you think the most significant person is?
-
-

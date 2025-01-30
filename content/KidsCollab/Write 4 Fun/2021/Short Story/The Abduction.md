@@ -14,4 +14,3 @@ So far, she has sent Railguns, Recon scanners, zyg and choppy ray guns and Kemar
 The mothership has already been taking areas on the Island to try to make us surrender to get our land back from the mothership.
 
 The aliens and the IO have signed an agreement that on the 13th of September the war would be fully over, but we would not get all your land back so that would mean that we must do a lot of Constuction after the war so that we would be safe if we do end up in another war but only time will tell if that is true hopefully no one starts a new war soon.
-

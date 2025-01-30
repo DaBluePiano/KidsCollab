@@ -5,6 +5,7 @@ tags:
 title: New folder
 ---
 %% Begin Waypoint %%
+
 - [[Quartz Template]]
 - [[Template for Folder notes]]
 

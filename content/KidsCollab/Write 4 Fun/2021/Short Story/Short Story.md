@@ -6,6 +6,7 @@ tags:
 title: Short Story
 ---
 %% Begin Waypoint %%
+
 - [[A Leap of Faith]]
 - [[Grandma's Attic]]
 - [[The 4th Dimension Adventure]]
