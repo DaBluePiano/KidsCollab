@@ -1,5 +1,5 @@
 ---
-title: {{file title}}
+title: Azlan U - Gambia Information Report
 draft: false
 tags: AzlanU
 comments: true

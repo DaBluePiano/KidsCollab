@@ -1,8 +1,7 @@
 ---
-title: {{file title}}
+title: The States of Matter
 draft: false
-tags: 
-    - NathanW, SidneyL
+tags: NathanW, SidneyL
 comments: true
 ---
 

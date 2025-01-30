@@ -1,5 +1,5 @@
 ---
-title: {{file title}}
+title: Effect of Household Chemicals on Leek Growth
 draft: false
 tags: AdamP
 comments: true

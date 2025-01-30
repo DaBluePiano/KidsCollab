@@ -1,5 +1,5 @@
 ---
-title: {{file title}}
+title: God, Gold and Glory
 draft: false
 tags: DillonT, XanderO, AmelieW, AtharvaG
 comments: true
