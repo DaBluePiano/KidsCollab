@@ -27,6 +27,8 @@ KFC bag
 
 Pig mask
 
+<br></br>
+
 (All enter scene from right, all wearing pieces of paper that has their name on it)
 
 All: Three . . . two . . . one . . . HAPPY CHINESE NEW YEAR!!!!!!!
