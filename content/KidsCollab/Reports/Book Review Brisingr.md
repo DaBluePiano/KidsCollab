@@ -1,5 +1,5 @@
 ---
-title: Book Review: Brisingr
+title: Book Review - Brisingr
 draft: false
 tags: NathanW
 comments: true
