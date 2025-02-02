@@ -1,12 +1,12 @@
 ---
 comments: true
-title: index
+title: Welcome to KidsCollab Gamma!
 draft: false
 tags: 
 author:
 ---
  
-This is KidsCollab Beta
+This is KidsCollab Gamma
 
 Please view the stable version at
 

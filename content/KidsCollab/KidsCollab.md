@@ -9,6 +9,7 @@ title: KidsCollab
 - **[[Dairies]]**
 - **[[Diaries]]**
 - **[[Fiction]]**
+- [[index]]
 - **[[Non-Fiction]]**
 - **[[Persuasive]]**
 - **[[Poetry]]**
