@@ -8,6 +8,7 @@ title: KidsCollab
 %% Begin Waypoint %%
 - **[[Diaries]]**
 - **[[Fiction]]**
+- [[index]]
 - **[[Non-Fiction]]**
 - **[[Persuasive]]**
 - **[[Poetry]]**
