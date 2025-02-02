@@ -46,6 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    Component.Graph(),
     Component.DesktopOnly(Component.Explorer({
       filterFn: (node) => {
         // exclude files with the tag "explorerexclude"
@@ -54,7 +55,6 @@ export const defaultContentPageLayout: PageLayout = {
     })),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -68,6 +68,9 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    Component.Graph(),
+  ],
+  right: [
     Component.DesktopOnly(Component.Explorer({
       title: "Explorer", // title of the explorer component
       folderClickBehavior: "link", // what happens when a folder is clicked
@@ -76,7 +79,8 @@ export const defaultListPageLayout: PageLayout = {
       // what order to apply functions in
       order: ["filter", "map", "sort"],
     })),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
   ],
-  right: [],
 }
 
