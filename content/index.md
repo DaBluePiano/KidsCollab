@@ -2,7 +2,7 @@
 comments: true
 title: Welcome to KidsCollab Gamma!
 draft: false
-tags: 
+tags: KidsCollab
 author:
 ---
  
