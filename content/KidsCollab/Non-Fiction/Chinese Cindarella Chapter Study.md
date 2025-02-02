@@ -1,7 +1,7 @@
 ---
-title: Chinese Cinderella Chapter Study
+title: Chinese Cindarella Chapter Study
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Non-Fiction]
 comments: true
 ---
 

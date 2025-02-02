@@ -1,7 +1,7 @@
 ---
 title: Nathan W - 2021-22 School Holidays
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Non-Fiction]
 comments: true
 ---
 

@@ -2,7 +2,7 @@
 comments: true
 title: A Reckless Rodeo
 draft: false
-tags: AdamP
+tags: [AdamP, KidsCollab/Fiction]
 ---
  
 ‘And the list of compulsory classes is as follows,’ the teacher said, ‘English, Maths, Science, History and Agriculture.’ Albert raised his hand silently amidst the announcement.

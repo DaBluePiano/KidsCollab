@@ -1,7 +1,7 @@
 ---
 title: Sidney L - 2021-22 School Holidays
 draft: false
-tags: SidneyL
+tags: [SidneyL, KidsCollab/Non-Fiction]
 comments: true
 ---
 

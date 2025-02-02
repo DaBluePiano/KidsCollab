@@ -1,7 +1,7 @@
 ---
 title: Turquoise
 draft: false
-tags: SidneyL
+tags: [SidneyL, KidsCollab/Poetry]
 comments: true
 ---
 

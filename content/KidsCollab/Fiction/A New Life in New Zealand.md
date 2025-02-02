@@ -2,7 +2,7 @@
 comments: true
 title: A New Life in New Zealand
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Fiction]
 ---
 
 A 440 word composition

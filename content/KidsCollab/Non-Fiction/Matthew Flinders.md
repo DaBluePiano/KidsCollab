@@ -1,7 +1,7 @@
 ---
 title: Matthew Flinders
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Non-Fiction]
 comments: true
 ---
 

@@ -2,8 +2,7 @@
 comments: true
 title: Emu Letters - Nathan
 draft: true
-tags:
-    - NathanW
+tags: [NathanW, KidsCollab/Persuasive]
 ---
 
 Dear 4L,

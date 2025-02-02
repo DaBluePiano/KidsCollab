@@ -2,8 +2,7 @@
 comments: true
 title: Van Gogh Alive Review
 draft: false
-tags:
-    - NathanW 
+tags: [NathanW, KidsCollab/Reports]
 ---
 
 ## Introduction

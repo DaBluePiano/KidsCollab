@@ -1,7 +1,7 @@
 ---
 title: Blue
 draft: false
-tags: AshtonA
+tags: [AshtonA, KidsCollab/Poetry]
 comments: true
 ---
 

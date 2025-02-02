@@ -2,7 +2,7 @@
 comments: true
 title: Nathan W - My Year in 2020
 draft: false
-tags:
+tags: [KidsCollab/Speeches]
 ---
 
  

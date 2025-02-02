@@ -2,7 +2,7 @@
 comments: true
 title: "A Monster's Identity"
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Fiction]
 ---
  
 <i>This Piece is a Fanfic of the book A Monster Calls by Patrick Ness, and follows on from a few weeks after the events of the book.</i>

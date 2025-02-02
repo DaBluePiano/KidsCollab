@@ -1,7 +1,7 @@
 ---
 title: The Bush
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Poetry]
 comments: true
 ---
 

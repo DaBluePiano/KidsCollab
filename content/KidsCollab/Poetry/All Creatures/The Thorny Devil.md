@@ -1,7 +1,7 @@
 ---
 title: The Thorny Devil
 draft: false
-tags: AdamP
+tags: [AdamP, KidsCollab/Poetry]
 comments: true
 ---
 

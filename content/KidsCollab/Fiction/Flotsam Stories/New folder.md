@@ -1,7 +1,7 @@
 ---
 comments: true
 draft: false
-tags:
+tags: [KidsCollab/Fiction]
 title: New folder
 ---
 %% Begin Waypoint %%

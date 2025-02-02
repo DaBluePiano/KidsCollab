@@ -2,7 +2,7 @@
 comments: true
 title: Sidney L - Alone
 draft: false
-tags: SidneyL
+tags: [SidneyL, KidsCollab/Fiction]
 ---
 
 The voice over the loud speaker interrupted by nervous thoughts. ‘Ladies and gentlemen, this train terminates at Park Lane. It will be our last stop.’ I held on tightly as the train pulled up suddenly to the station. I looked at my watch – 2:34 am. Swinging my bag over my shoulder, I stood in front of the smooth double glass doors, waiting for them to open.

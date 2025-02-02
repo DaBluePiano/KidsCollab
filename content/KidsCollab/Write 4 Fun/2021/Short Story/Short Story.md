@@ -1,8 +1,7 @@
 ---
 comments: true
 draft: true
-tags:
-  - FolderNote
+tags: [FolderNote, KidsCollab/Write-4Fun]
 title: Short Story
 ---
 %% Begin Waypoint %%

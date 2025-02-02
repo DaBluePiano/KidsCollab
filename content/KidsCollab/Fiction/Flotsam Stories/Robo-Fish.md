@@ -2,7 +2,7 @@
 comments: true
 title: Robo-Fish
 draft: false
-tags: SidneyL
+tags: [SidneyL, KidsCollab/Fiction]
 ---
  
 Fizz! Bang! Pop! A ship has just come in pulling 10 tonnes of cargo and was going at a jaw dropping 100 nautical miles an hour! The ship has just toppled sideways letting all the cargo and goods into the ocean. But what they didn’t know about was that there were acid tanks too! What a disaster!

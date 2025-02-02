@@ -6,11 +6,10 @@ tags:
 title: KidsCollab
 ---
 %% Begin Waypoint %%
-
 - **[[Dairies]]**
+- **[[Diaries]]**
 - **[[Fiction]]**
 - **[[Non-Fiction]]**
-- **[[Other]]**
 - **[[Persuasive]]**
 - **[[Poetry]]**
 - **[[Reports]]**

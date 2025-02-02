@@ -1,7 +1,7 @@
 ---
-title: Earth's Illness
+title: "Earth's Illness"
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Science-Fiction]
 comments: true
 ---
 

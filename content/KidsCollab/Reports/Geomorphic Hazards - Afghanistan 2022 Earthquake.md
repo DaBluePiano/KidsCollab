@@ -2,8 +2,7 @@
 comments: true
 title: Geomorphic Hazards - Afghanistan 2022 Earthquake
 draft: false
-tags:
-    - SidneyL
+tags: [SidneyL, KidsCollab/Reports]
 ---
 
 ## Introduction

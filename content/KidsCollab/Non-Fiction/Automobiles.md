@@ -1,7 +1,7 @@
 ---
 title: Automobiles
 draft: false
-tags: AlvinC
+tags: [AlvinC, KidsCollab/Non-Fiction]
 comments: true
 ---
 

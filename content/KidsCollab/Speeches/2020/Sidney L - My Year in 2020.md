@@ -2,7 +2,7 @@
 comments: true
 title: Sidney L - My Year in 2020
 draft: false
-tags: SidneyL
+tags: [SidneyL, KidsCollab/Speeches]
 ---
 
 2020, the year that changed everything. Everything. Absolutely everything. 2020 was planned to be a phenomenal year. But as soon as I got my classes, bad news hit. It was predicted that I had to home school. I wondered what would happen.

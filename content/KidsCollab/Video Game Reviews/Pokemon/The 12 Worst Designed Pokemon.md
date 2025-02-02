@@ -1,7 +1,7 @@
 ---
-title: The 12 Worst Designed Pokemon, Ranked
+title: The 12 Worst Designed Pokemon
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Video-Game-Reviews]
 comments: true
 ---
 

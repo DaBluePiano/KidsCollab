@@ -2,7 +2,7 @@
 comments: true
 title: Rain, Town, Rescue, Battle
 draft: false
-tags: Unknown
+tags: [Unknown, KidsCollab/Fiction]
 ---
  
 

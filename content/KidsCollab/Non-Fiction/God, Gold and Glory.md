@@ -1,7 +1,7 @@
 ---
 title: God, Gold and Glory
 draft: false
-tags: DillonT, XanderO, AmelieW, AtharvaG
+tags: [DillonT, XanderO, AmelieW, AtharvaG, KidsCollab/Non-Fiction]
 comments: true
 ---
 

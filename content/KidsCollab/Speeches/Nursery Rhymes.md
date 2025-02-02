@@ -2,7 +2,7 @@
 comments: true
 title: Nursery Rhymes
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Speeches]
 ---
 
 Do you know the Muffin Man?

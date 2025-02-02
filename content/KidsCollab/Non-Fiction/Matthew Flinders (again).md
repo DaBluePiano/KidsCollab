@@ -1,7 +1,7 @@
 ---
 title: Matthew Flinders (again)
 draft: false
-tags: 
+tags: [KidsCollab/Non-Fiction]
 comments: true
 ---
 

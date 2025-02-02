@@ -1,7 +1,7 @@
 ---
 title: Being Sustainable
 draft: false
-tags: SidneyL
+tags: [SidneyL, KidsCollab/Non-Fiction]
 comments: true
 ---
 

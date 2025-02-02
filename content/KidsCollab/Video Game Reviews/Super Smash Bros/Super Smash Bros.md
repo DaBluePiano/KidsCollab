@@ -1,8 +1,7 @@
 ---
 comments: true
 draft: true
-tags:
-  - FolderNote
+tags: [FolderNote, KidsCollab/Video-Game-Reviews]
 title: Super Smash Bros
 ---
 %% Begin Waypoint %%

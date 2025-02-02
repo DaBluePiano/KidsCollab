@@ -2,7 +2,7 @@
 comments: true
 title: The Koopas
 draft: false
-tags: JamieW
+tags: [JamieW, KidsCollab/Fiction]
 ---
 
 The Koopa’s are Bowser’s family,and they work together to fight Mario.

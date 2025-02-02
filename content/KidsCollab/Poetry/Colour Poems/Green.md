@@ -1,7 +1,7 @@
 ---
 title: Green
 draft: false
-tags: MarcusC
+tags: [MarcusC, KidsCollab/Poetry]
 comments: true
 ---
 

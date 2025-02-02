@@ -1,7 +1,7 @@
 ---
 title: Snare Drum and Gong
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Non-Fiction]
 comments: true
 ---
 

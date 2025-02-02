@@ -1,7 +1,7 @@
 ---
 title: Gold Mining in Australia
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Non-Fiction]
 comments: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Leo J - Gambia Information Report
+title: Leo J - Gambia Inormation Report
 draft: false
-tags: LeoJ
+tags: [LeoJ, KidsCollab/Non-Fiction]
 comments: true
 ---
 

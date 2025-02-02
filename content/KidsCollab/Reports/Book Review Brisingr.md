@@ -1,7 +1,7 @@
 ---
-title: Book Review - Brisingr
+title: Book Review Brisingr
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Reports]
 comments: true
 ---
 

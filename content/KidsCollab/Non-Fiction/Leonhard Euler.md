@@ -1,7 +1,7 @@
 ---
 title: Leonhard Euler
 draft: false
-tags: AdamP
+tags: [AdamP, KidsCollab/Non-Fiction]
 comments: true
 ---
 

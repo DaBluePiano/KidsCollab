@@ -2,7 +2,7 @@
 comments: true
 title: Razing
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Fiction]
 ---
  
 He rises, his eyes sullen and blank. He reaches for a photo, crinkles creasing on his face. But when he touches the frame, his mind flashes like lightning.

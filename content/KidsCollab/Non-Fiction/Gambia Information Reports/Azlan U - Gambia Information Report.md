@@ -1,7 +1,7 @@
 ---
 title: Azlan U - Gambia Information Report
 draft: false
-tags: AzlanU
+tags: [AzlanU, KidsCollab/Non-Fiction]
 comments: true
 ---
 

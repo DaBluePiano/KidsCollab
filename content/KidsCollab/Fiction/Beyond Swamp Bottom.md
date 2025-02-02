@@ -2,7 +2,7 @@
 comments: true
 title: Beyond Swamp Bottom
 draft: false
-tags: AdamP
+tags: [AdamP, KidsCollab/Fiction]
 ---
 
 <strong>Inspired by the film 'Spirited Away' by Studio Ghibli</strong>

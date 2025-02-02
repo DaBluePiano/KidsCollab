@@ -1,7 +1,7 @@
 ---
 title: Teamwork Requires Collective Needs Above His Own
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Non-Fiction]
 comments: true
 ---
 

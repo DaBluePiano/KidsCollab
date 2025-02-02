@@ -1,7 +1,7 @@
 ---
 title: Royal Lament
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Poetry]
 comments: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The Peacock
 draft: false
-tags: TasnovaC
+tags: [TasnovaC, KidsCollab/Poetry]
 comments: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Bar of Metal
 draft: false
-tags: AdamP
+tags: [AdamP, KidsCollab/Poetry]
 comments: true
 ---
 

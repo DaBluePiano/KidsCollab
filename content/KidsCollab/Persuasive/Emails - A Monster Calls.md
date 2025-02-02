@@ -2,8 +2,7 @@
 comments: true
 title: Emails - A Monster Calls
 draft: false
-tags:
-    - NathanW
+tags: [NathanW, KidsCollab/Persuasive]
 ---
 
 Dear Ms Generic Teacher,

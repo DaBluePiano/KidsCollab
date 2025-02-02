@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Welcome to KidsCollab Beta!
+title: index
 draft: false
 tags: 
 author:

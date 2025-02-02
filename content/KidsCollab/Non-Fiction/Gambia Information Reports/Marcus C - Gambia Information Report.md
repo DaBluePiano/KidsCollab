@@ -1,7 +1,7 @@
 ---
 title: Marcus C - Gambia Information Report
 draft: false
-tags: MarcusC
+tags: [MarcusC, KidsCollab/Non-Fiction]
 comments: true
 ---
 

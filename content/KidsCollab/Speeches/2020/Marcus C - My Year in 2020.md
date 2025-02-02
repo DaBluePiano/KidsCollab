@@ -2,7 +2,7 @@
 comments: true
 title: Marcus C - My Year in 2020
 draft: false
-tags: MarcusC
+tags: [MarcusC, KidsCollab/Speeches]
 ---
  
 2020 what a very unusual year for all of us from the black summer fire to the dreadful coronavirus, a short name for the COVID-19.

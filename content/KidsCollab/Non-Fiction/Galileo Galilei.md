@@ -1,7 +1,7 @@
 ---
 title: Galileo Galilei
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Non-Fiction]
 comments: true
 ---
 

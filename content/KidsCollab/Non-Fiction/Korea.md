@@ -1,7 +1,7 @@
 ---
 title: Korea
 draft: false
-tags: LeoJ
+tags: [LeoJ, KidsCollab/Non-Fiction]
 comments: true
 ---
 

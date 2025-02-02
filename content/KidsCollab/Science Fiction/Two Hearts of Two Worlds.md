@@ -1,7 +1,7 @@
 ---
-title: {{file title}}
+title: Two Hearts of Two Worlds
 draft: false
-tags: SidneyL
+tags: [SidneyL, KidsCollab/Science-Fiction]
 comments: true
 ---
 

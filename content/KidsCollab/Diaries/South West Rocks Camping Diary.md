@@ -1,7 +1,9 @@
 ---
 title: South West Rocks Camping Diary
 draft: false
-tags: SidneyL
+tags:
+  - KidsCollab/Diaries
+  - SidneyL
 comments: true
 ---
 South West Rocks Camping Diary  

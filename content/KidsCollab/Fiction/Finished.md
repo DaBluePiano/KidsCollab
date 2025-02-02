@@ -2,7 +2,7 @@
 comments: true
 title: Finished
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Fiction]
 ---
  
 <i>This story was written based on the prompt: A Rabbit doesn't want ot get eaten by a Fox.

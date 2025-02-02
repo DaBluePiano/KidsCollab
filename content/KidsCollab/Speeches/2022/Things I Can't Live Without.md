@@ -2,8 +2,7 @@
 comments: true
 title: "Things I Can't Live Without"
 draft: false
-tags:
-    - NathanW
+tags: [NathanW, KidsCollab/Speeches]
 ---
 
 Things I Can’t Live Without . . .

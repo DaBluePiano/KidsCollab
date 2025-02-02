@@ -1,7 +1,7 @@
 ---
 title: Sidney L - Gambia Information Report
 draft: false
-tags: SidneyL
+tags: [SidneyL, KidsCollab/Non-Fiction]
 comments: true
 ---
 

@@ -1,8 +1,7 @@
 ---
 comments: true
 draft: true
-tags:
-  - FolderNote
+tags: [FolderNote, KidsCollab/Persuasive]
 title: Emu Letters
 ---
 %% Begin Waypoint %%

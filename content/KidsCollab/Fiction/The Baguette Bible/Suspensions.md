@@ -2,8 +2,7 @@
 comments: true
 title: Suspensions
 draft: false
-tags:
-    - LucasL
+tags: [LucasL, KidsCollab/Fiction]
 ---
 
 ## SOMEONE HELP ME FINISH THIS

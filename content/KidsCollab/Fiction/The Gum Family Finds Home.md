@@ -2,7 +2,7 @@
 comments: true
 title: The Gum Family Finds Home
 draft: false
-tags: SidneyL
+tags: [SidneyL, KidsCollab/Fiction]
 ---
  
 The Gum Family of four lives in a very unstable gum tree.

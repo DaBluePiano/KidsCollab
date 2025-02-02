@@ -2,8 +2,7 @@
 comments: true
 title: Emu Letters - Sidney
 draft: true
-tags:
-    - SidneyL
+tags: [SidneyL, KidsCollab/Persuasive]
 ---
 
 Dear 4L,

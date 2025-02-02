@@ -2,8 +2,7 @@
 comments: true
 title: Emu Letters - Marcus
 draft: true
-tags:
-    - MarcusC
+tags: [MarcusC, KidsCollab/Persuasive]
 ---
 
 Dear 4L,

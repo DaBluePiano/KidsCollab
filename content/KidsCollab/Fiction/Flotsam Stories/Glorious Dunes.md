@@ -2,7 +2,7 @@
 comments: true
 title: Glorious Dunes
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Fiction]
 ---
  
 Blue. Blue and repetitive. The only way to describe my old life. Back where the Organi ruled and we weren’t allowed to find anything out. And we knew nothing about ourselves. You wouldn’t have a family, more like a cluster. It was this way for every little Bacto. At least until the big dark shape appeared.

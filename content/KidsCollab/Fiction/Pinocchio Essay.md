@@ -2,7 +2,7 @@
 comments: true
 title: Pinocchio Essay
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Fiction]
 ---
 
 Do texts teach life lessons?

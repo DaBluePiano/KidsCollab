@@ -2,7 +2,7 @@
 comments: true
 title: The Mountain
 draft: false
-tags: SidneyL
+tags: [SidneyL, KidsCollab/Fiction]
 ---
  
 Humph, humph, humph.

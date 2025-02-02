@@ -1,7 +1,9 @@
 ---
 title: Arrawarra and Bingara Camping Dairy
 draft: false
-tags: SidneyL
+tags:
+  - KidsCollab/Diaries
+  - SidneyL
 comments: true
 ---
 

@@ -2,7 +2,7 @@
 comments: true
 title: If Looks Could Kill
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Fiction]
 ---
  
 I stand with debris all around me. Beyond my vision there is more. A glare was all it took. It claimed the lives of many. I will tell it all.

@@ -2,7 +2,7 @@
 comments: true
 title: Different
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Fiction]
 ---
  
 The ground looked nice today.

@@ -1,5 +1,5 @@
 ---
-title: Nostalgia (Draft) 
+title: Nostalgia Draft
 draft: false
 tags: NathanW
 comments: true

@@ -2,7 +2,7 @@
 comments: true
 title: Nay Farn
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Fiction]
 ---
  
 Before anything was made, a glistening single cell appeared. It lived isolated several days in the deserted land it had appeared. The cell established the land as Nay-Farn.

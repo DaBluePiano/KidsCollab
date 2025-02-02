@@ -1,7 +1,7 @@
 ---
-title: Can't
+title: "Can't"
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Poetry]
 comments: true
 ---
 <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">

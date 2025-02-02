@@ -1,7 +1,7 @@
 ---
 title: The Illiad
 draft: false
-tags: NathanW
+tags: [NathanW, KidsCollab/Non-Fiction]
 comments: true
 ---
 

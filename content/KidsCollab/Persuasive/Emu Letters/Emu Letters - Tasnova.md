@@ -2,8 +2,7 @@
 comments: true
 title: Emu Letters - Tasnova
 draft: true
-tags:
-    - TasnovaC
+tags: [TasnovaC, KidsCollab/Persuasive]
 ---
 
 Dear 4L

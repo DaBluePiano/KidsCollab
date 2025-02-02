@@ -2,7 +2,7 @@
 comments: true
 title: An Apple a Day Keeps the Doctor Away
 draft: false
-tags: SidneyL
+tags: [SidneyL, KidsCollab/Speeches]
 ---
  
 An Apple A Day Keeps The Doctor Away…

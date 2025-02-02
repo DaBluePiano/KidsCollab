@@ -1,7 +1,7 @@
 ---
 title: Godwit Information Report - Sidney L
 draft: false
-tags: SidneyL
+tags: [SidneyL, KidsCollab/Non-Fiction]
 comments: true
 ---
 

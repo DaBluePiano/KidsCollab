@@ -2,8 +2,7 @@
 comments: true
 title: Reports
 draft: true
-tags:
-  - FolderNote
+tags: [FolderNote, KidsCollab/Reports]
 author:
 ---
 %% Begin Waypoint %%
