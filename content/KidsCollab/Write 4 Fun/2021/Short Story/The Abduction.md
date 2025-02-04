@@ -2,7 +2,7 @@
 comments: true
 title: The Abduction
 draft: false
-tags: [ScottH, KidsCollab/Write-4Fun]
+tags: [ScottH, KidsCollab/Write4Fun]
 ---
  
 Ever since the mothership has placed abductors all over the Island things have been uneasy like people have been abducted at least twice a week. Although all the messages that are saying to stay at home people are marching through the streets screaming “Take us with you”. So far, the people who have been abducted but never came back include Dr. Slone, Abstrackt, Sunny, Hayseed and sunflower.
