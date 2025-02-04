@@ -46,15 +46,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Graph(),
-  ],
-  right: [
     Component.DesktopOnly(Component.Explorer({
       filterFn: (node) => {
         // exclude files with the tag "explorerexclude"
         return node.file?.frontmatter?.tags?.includes("FolderNote") !== true
       },
     })),
+  ],
+  right: [
+    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
