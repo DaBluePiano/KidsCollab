@@ -30,26 +30,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f4efe4", // Clean and very light blue-gray for the page background
-          lightgray: "#ddd5c2", // Softer light blue for borders and subtle accents
-          gray: "#b3ab9a", // Muted gray-blue for links and heavier borders
-          darkgray: "#545351", // Brighter, readable gray for body text
-          dark: "#1C1F26", // Deep charcoal for headings and important text
-          secondary: "#dd7f2a", // Rich blue for links and current section highlights
-          tertiary: "#1887bf", // Warm orange for hover states and call-to-action highlights
-          highlight: "rgba(255, 167, 38, 0.15)", // Light blue overlay for highlighting
-          textHighlight: "#F59E0B", // Vibrant orange for highlighted text backgrounds
+          light: "#fbf1c7", // Warm cream background
+          lightgray: "#ebdbb2", // Soft light brownish-gray for borders
+          gray: "#d5c4a1", // Muted beige-gray for graph links and borders
+          darkgray: "#7c6f47", // Warm olive-brown for body text
+          dark: "#3c3822", // Deep brown for header text and icons
+          secondary: "#458588", // Soft teal for link colors and current graph node
+          tertiary: "#b8bb26", // Olive-greenish-yellow for hover states and visited graph nodes
+          highlight: "rgba(72, 150, 120, 0.25)", // Soft green for internal link background and highlights
+          textHighlight: "#bdae93", // Pale beige with a hint of yellow for markdown highlighted text background
         },
         darkMode: {
-          light: "#0F172A", // Deep navy for the page background
-          lightgray: "#1E293B", // Muted blue-gray for borders
-          gray: "#475569", // Subtle gray-blue for less prominent text
-          darkgray: "#94A3B8", // Softer light blue for readable body text
-          dark: "#E2E8F0", // Off-white for headings and prominent text
-          secondary: "#3B82F6", // Bright blue for links and active elements
-          tertiary: "#F59E0B", // Soft amber for hover states and highlights
-          highlight: "rgba(59, 130, 246, 0.15)", // Light blue for hover backgrounds
-          textHighlight: "#FACC15", // Brighter yellow for highlighted text
+          light: "#282828", // Very dark gray background
+          lightgray: "#3c3836", // Dark muted brown for borders
+          gray: "#504945", // Soft gray-brown for graph links and borders
+          darkgray: "#ebdbb2", // Light cream for body text (contrast for dark mode)
+          dark: "#d5c4a1", // Soft beige for header text and icons
+          secondary: "#83a598", // Muted teal for link colors and current graph node
+          tertiary: "#b8bb26", // Olive-greenish-yellow for hover states and visited graph nodes
+          highlight: "rgba(72, 150, 120, 0.25)", // Soft green for internal link background and highlights
+          textHighlight: "#3c3836", // Deep dark brown for markdown highlighted text background
         },
       },
     },

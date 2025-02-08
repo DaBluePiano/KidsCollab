@@ -1,14 +1,16 @@
 ---
-title: Welcome to KidsCollab!
+comments: true
+title: Welcome to KidsCollab Gamma!
 draft: false
 tags: 
 author:
 ---
  
-This is KidsCollab Beta
+This is KidsCollab Gamma
 
-Please view the stable version at 
+Please view the stable version at
 
 [KidsCollab](https://sites.google.com/view/kidscollab)
 
-v.0.0.4
+Or the Beta at
+[KidsCollab Beta](https://kidscollab.github.io/KidsCollab)
