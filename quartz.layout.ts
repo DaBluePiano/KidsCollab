@@ -77,6 +77,10 @@ export const defaultListPageLayout: PageLayout = {
       order: ["filter", "map", "sort"],
     })),
   ],
+<<<<<<< HEAD
   right: [],
 }
 
+=======
+}
+>>>>>>> v4

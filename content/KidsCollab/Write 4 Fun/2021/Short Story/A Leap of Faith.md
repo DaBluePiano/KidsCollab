@@ -2,7 +2,11 @@
 comments: true
 title: A Leap of Faith
 draft: false
+<<<<<<< HEAD
 tags: ThomasM
+=======
+tags: [ThomasM, KidsCollab/Write4Fun]
+>>>>>>> v4
 ---
  
 Glaring down on me, the ever so large ball of fire known as our sun gave us the hottest recorded day of the decades. On the torn seat of old Volvo bus, I could feel a small wire prod me in the back, harder each time we drove over a divot in the poorly constructed road. As I wearily gazed out of the window, shrivelled and frayed bushes casually rolled along the dusty surface. I allowed myself to doze of for 1 minute, which became 2, then 5 and so on.
