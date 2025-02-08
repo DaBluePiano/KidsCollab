@@ -84,7 +84,7 @@ export default ((opts?: Options) => {
             target="_blank"
             rel="noopener noreferrer"
             style={{
-              backgroundColor: "highlight", // Darker grey with blue undertone
+              backgroundColor: "rgba(51, 105, 84, 0.9)", // Darker green for internal link background and highlights
               color: "#a0b1ca",
               padding: "15px 30px",
               textAlign: "center",
@@ -104,7 +104,7 @@ export default ((opts?: Options) => {
             target="_blank"
             rel="noopener noreferrer"
             style={{
-              backgroundColor: "highlight", // Same warm grey with blue undertone
+              backgroundColor: "rgba(51, 105, 84, 0.9)", // Darker green for internal link background and highlights
               color: "#a0b1ca",
               padding: "15px 30px",
               textAlign: "center",
